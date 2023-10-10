@@ -1,8 +1,5 @@
 {
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/itsanandu/portfolio.git"
-  },
+  "homepage": "http://itsanandu.github.io/portfolio",
   "name": "shaquille",
   "private": true,
   "version": "0.0.0",
